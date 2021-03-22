@@ -6,7 +6,7 @@
       <%= page_title(assigns) %> - Today I Learned
     </title>
 
-    <% description = "TIL is an open-source project by Hashrocket that exists to catalogue the sharing & accumulation of knowledge as it happens day-to-day." %>
+    <% description = "TIL is a project" %>
     <% image = twitter_image_url(assigns[:post]) %>
 
     <meta itemprop="name" content="Today I Learned">
